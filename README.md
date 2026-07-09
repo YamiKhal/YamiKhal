@@ -1,2 +1,4 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Yamikhal)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yamikhal&theme=github_dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YamiKhal&hide_title=false&show_icons=true&include_all_commits=true&theme=aura_dark)](https://github-stats-extended.vercel.app/api?username=YamiKhal&hide_title=true&show_icons=true&include_all_commits=true&theme=aura_dark)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=YamiKhal&layout=compact&langs_count=6&theme=aura_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=YamiKhal&layout=compact&langs_count=6&theme=aura_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Yamikhal&layout=compact&langs_count=6&theme=aura_dark)](https://wakatime.com/@Yamikhal)
