@@ -16,5 +16,5 @@ This is a personal github account so I don't commit to it often.
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=YamiKhal\&layout=compact\&custom_title=Usage&langs_count=6\&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=YamiKhal&layout=compact&langs_count=6&theme=aura_dark)
 [![Coding Time](https://github-stats-extended.vercel.app/api/wakatime?username=Yamikhal\&layout=compact\&custom_title=Coding%20Time\&langs_count=6\&theme=dark)](https://wakatime.com/@Yamikhal)
 
-Note: I will remove top languages once my wakatime actually catches up since it's a new thing for me -
+Note: I will remove top languages once my wakatime actually catches up since it's a new thing for me;
 using it since 10th of Octobor 2026
