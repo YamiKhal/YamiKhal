@@ -1,4 +1,4 @@
-# Hey, I'm Yami
+# Hey, I'm Yami 👋
 
 in my 20s years old, based in Germany, self-taught full-stack developer.
 You can find me here and there dappling in code.
@@ -7,10 +7,7 @@ Don't try to look for relation between my projects, there isn't any.
 
 This is a personal github account so I don't commit to it often.
 
-<br />
-<br />
-
-## GitHub
+## GitHub 🚀🆘
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YamiKhal\&hide_title=false\&show_icons=true\&include_all_commits=true\&theme=dark)](https://github-stats-extended.vercel.app/api?username=YamiKhal&hide_title=true&show_icons=true&include_all_commits=true&theme=aura_dark)
 
