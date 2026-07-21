@@ -21,4 +21,4 @@ This is a personal github account so I don't commit to it often.
 [![Coding Time](https://github-stats-extended.vercel.app/api/wakatime?username=Yamikhal&text_color=C2C6D6&title_color=9B8BFF&icon_color=7278B5&bg_color=13151A&border_color=7278B5&border_radius=0&layout=compact&custom_title=Coding%20Time%20(last%207%20days)&langs_count=6&theme=dark)](https://wakatime.com/@Yamikhal)
 
 
-*Note: I'll remove Top Languages once WakaTime has enough data. I've been using it since October 10, 2026.*
+*Note: I'll remove Top Languages once WakaTime has enough data. I've been using it since July 10, 2026.*
