@@ -3,13 +3,6 @@
 # I'm Yami 👋
 
 in my 20s, based in Germany, self-taught full-stack developer.
-<br/>
-You can find me here and there dabbling in code.
-
-
-Don't try to look for relation between my projects, there isn't any.
-
-This is a personal github account so I don't commit to it often.
 
 <br clear="right" />
 
